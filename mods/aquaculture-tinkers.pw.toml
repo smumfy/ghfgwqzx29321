@@ -1,0 +1,13 @@
+name = "Aquaculture Tinkers"
+filename = "Aquaculture-Tinkers-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71a328a73e1c6b4749a36d1e6694af3ca928c1c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6169867
+project-id = 1195862

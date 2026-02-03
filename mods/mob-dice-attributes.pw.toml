@@ -1,0 +1,13 @@
+name = "Mob Dice Attributes"
+filename = "mobdiceattribs-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5420a9b1272ec2ae2d91980bbe8ea57896549118"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5705574
+project-id = 824937

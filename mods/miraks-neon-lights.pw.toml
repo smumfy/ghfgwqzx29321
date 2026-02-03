@@ -1,0 +1,13 @@
+name = "Mirak's Neon Lights"
+filename = "Neon_Lights.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00c2d505ce1fd15b10033757be4e358718b8a5b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4811409
+project-id = 891010

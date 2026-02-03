@@ -1,0 +1,13 @@
+name = "Croptopia and Create"
+filename = "croptopiaandcreate-2.2.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b6b1eebaa5b91b361c49c70bfb2245212e064f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6952816
+project-id = 1119798
