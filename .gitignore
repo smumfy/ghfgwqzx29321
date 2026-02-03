@@ -3,6 +3,3 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
-
-# Exclude jars
-*.jar
