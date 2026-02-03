@@ -1,0 +1,13 @@
+name = "Malfu Combat Animation"
+filename = "MCA_resourcepack-V3.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c89b7868dde669b1236b369a4acf32d606de23de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7174240
+project-id = 1259338
