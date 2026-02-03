@@ -1,0 +1,13 @@
+name = "MTR - Moog's Temples Reimagined"
+filename = "MoogsTemplesReimagined-1.20-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "218bac08033265a89d784a2a792a286fd1fed956"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7011680
+project-id = 1339737

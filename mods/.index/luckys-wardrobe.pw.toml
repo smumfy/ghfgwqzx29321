@@ -1,0 +1,17 @@
+filename = 'wardrobe-1.0.3.1-forge-1.20.1.jar'
+name = "Lucky's Wardrobe"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'wardrobe-1.0.3.1-forge-1.20.1.jar'
+
+[download]
+hash = '7985d6e0032af7ab65c6013dfcd03b5797af69ee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5409881
+project-id = 968067

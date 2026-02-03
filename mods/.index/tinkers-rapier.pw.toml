@@ -1,0 +1,17 @@
+filename = 'tinker_rapier-1.0.1-1.20.1.jar'
+name = "Tinkers' Rapier"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1-1.20.1'
+
+[download]
+hash = '158b9918ccf677836ea8960c196c487f4c362427c4e2c4f00a4ca3deae31fac2fa447f425d9aa2d2962f44c51048c4a86f2db805fa137cecf94653eb2b0d0b5b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6ZtdNJ9x/versions/CCpXhJfV/tinker_rapier-1.0.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '6ZtdNJ9x'
+version = 'CCpXhJfV'

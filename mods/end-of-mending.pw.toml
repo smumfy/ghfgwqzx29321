@@ -1,0 +1,13 @@
+name = "End Of Mending"
+filename = "endofmending-neoforge-1.21-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82d4c91251d29e0ae060e5bf65dc585c7bf653a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5476855
+project-id = 622608

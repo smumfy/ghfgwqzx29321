@@ -1,0 +1,13 @@
+name = "(Legacy) Cake's Cosmetics"
+filename = "cakescosmetics-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7737f061169cf7a2aaad9bca4d21629248722ff8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6803393
+project-id = 1014463

@@ -1,0 +1,13 @@
+name = "Bow Pulling Animation"
+filename = "bowpullanim-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97cee6df8bfaf3b92489c25b4defa51a59b80ea7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7146962
+project-id = 1371734

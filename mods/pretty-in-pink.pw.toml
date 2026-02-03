@@ -1,0 +1,13 @@
+name = "Pretty In Pink"
+filename = "pretty_in_pink-1.0.3-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5674a1cae1ac19d8886c89e75c4d8297af681ac1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6929180
+project-id = 1313661

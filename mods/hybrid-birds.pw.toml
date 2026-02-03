@@ -1,0 +1,13 @@
+name = "Hybrid Birds"
+filename = "[1.20.1] Hybrid Birds Forge 1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11bcc14019f40143aeb592df03a14bf7994727ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6939953
+project-id = 883371
