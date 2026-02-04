@@ -9,10 +9,6 @@ file = "log4j2.xml"
 hash = "16772f1959b9ef6a48181a4b2bc584fa514f6396452477cbac2c8d8d34f41cc3"
 
 [[files]]
-file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
-hash = "f2d880b56586ef64f8acc00513365b2ed8bc3976987b93f6aa7c4b2a4eb78882"
-
-[[files]]
 file = "mods/Butters-CreateQuarkRecipe-1.20.1.jar"
 hash = "fa4afafc6ab2092c7c84284782cee02bb91b2b8fa09fad521b04c9c36f8feb30"
 
@@ -27,10 +23,6 @@ hash = "5119fb152abe0305a90630faae81db23001ae703ac18dc4e2feb3744bbd5c2c6"
 [[files]]
 file = "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar.disabled"
 hash = "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292"
-
-[[files]]
-file = "mods/DoggyTalentsNext-1.20.1-1.18.64.jar"
-hash = "ef6698c6fbe2a0e6a0f8a184ac6da327662dfbac6a73d392bdcf8810a6b80fd5"
 
 [[files]]
 file = "mods/Dungeon Now Loading-forge-1.20.1-2.11.jar"
@@ -2086,11 +2078,6 @@ hash = "7d26046aea03fcae4f1e5875d818543a5a401e2ae239cdfe3f18307309014290"
 metafile = true
 
 [[files]]
-file = "mods/vminus.pw.toml"
-hash = "c3954a7cc5a8cb778bfe04abdb38bfc7da2e160ec72f1ff7fbac195fecf0ea57"
-metafile = true
-
-[[files]]
 file = "mods/wardrobe-1.0.3.1-forge-1.20.1.jar"
 hash = "a3721fbe21711456971195e343f1e495650e5bfd6041f047311dae94ca4f3227"
 
@@ -2163,10 +2150,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Better_Dogs_V0.41.zip"
-hash = "27f19f08cd13a42786722dc18b0a14aaf83411b9a3e4efa51f3f92caa3bb3523"
 
 [[files]]
 file = "resourcepacks/Gentler Weather Sounds 2.1.0.zip"
