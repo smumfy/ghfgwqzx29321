@@ -90,11 +90,6 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
-file = "mods/aileron.pw.toml"
-hash = "07cb9c805f09fd20ef750db282c18ff909f7de6cf1ffe45a8b03b5e049df59e9"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves-better-combat.pw.toml"
 hash = "8996dca10fc1951d254c70a465a71d7da4f704176f82fb170c2f05845b00f704"
 metafile = true
