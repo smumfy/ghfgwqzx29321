@@ -1720,11 +1720,6 @@ hash = "ad017c00411e9b3cd8564d913e568636270ffd50bc822c919ce1db5ba0dbe126"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "3dbc10daf7a2ebcbc7ff240931d5fada41900930183d48e3996d893a218f544d"
-metafile = true
-
-[[files]]
 file = "mods/ruok.pw.toml"
 hash = "4c57b2066c393074fb1270d807e8405209a1d60d46e74c4933cca6a03ad80870"
 metafile = true
