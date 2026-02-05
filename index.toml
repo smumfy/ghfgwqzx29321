@@ -1346,10 +1346,6 @@ hash = "0e3ba214541f37a2a7b79cc2e3d89783b7aa2ebd704c9a38e58a0b606cb71141"
 metafile = true
 
 [[files]]
-file = "mods/mcqoy-0.4.1+forge-1.20.jar"
-hash = "76e8e318bce124c704ab43b207c6a7d484e966103d88143de96205da2aa115f9"
-
-[[files]]
 file = "mods/medieval-buildings-end-edition.pw.toml"
 hash = "d843060f702489955954f83c254bd27eea1488d5e577f43abc0fcf88a5fd59a4"
 metafile = true
