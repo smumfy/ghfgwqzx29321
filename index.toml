@@ -66,10 +66,6 @@ hash = "e698205da2db424086fe050940d544353bfb5aa8e6cafcebbdf9f313225a4f22"
 metafile = true
 
 [[files]]
-file = "mods/aa4-atlas-1.1.2+1.20.jar"
-hash = "b1ad37a2814ed85b7b360f69a67249189ce192ac7189520506242150257eb67c"
-
-[[files]]
 file = "mods/aaa-particles.pw.toml"
 hash = "ee0b992bbbcded3a2195bbd1a867db66e67f775bb4df48a658662bd2cea43a6b"
 metafile = true
@@ -138,10 +134,6 @@ metafile = true
 file = "mods/another-furniture.pw.toml"
 hash = "892330f5c44888f1fbdd552b728acf89af7bc32a8cbb9ff5cd17c4a453508fc4"
 metafile = true
-
-[[files]]
-file = "mods/antique-atlas-3.1.2+1.20.jar"
-hash = "8add9c788588f82a4c036b0a91f5c400f039e7d5a7d3ec3e0b585158aadc2624"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -1151,6 +1143,10 @@ hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-1.20.1-5.10.3-forge.jar"
+hash = "8b2679b7b4881e0aa430fd24345ea446de919faf8a45bd2a71d37c7e8ff6ae1e"
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "7142644b6ee70047ec0eec880a44050cf4fd7e42c94f93dbe85ea7630f2d4500"
 metafile = true
@@ -1903,10 +1899,6 @@ metafile = true
 file = "mods/supplementaries.pw.toml"
 hash = "80cc9e9ba6f53fa0a165c8ceb24d295eac471ecbb64f2b7711f1751264d96c1f"
 metafile = true
-
-[[files]]
-file = "mods/surveyor-1.2.1+1.20.jar"
-hash = "f5d50ec033e0bc1c37b1bbf2e21a6ed23ccd278064bc1c1b0b7b9a875bd5c9a7"
 
 [[files]]
 file = "mods/swampier-swamps.pw.toml"
