@@ -600,10 +600,6 @@ file = "mods/create_ltab-3.6.1.jar"
 hash = "fa231ab4374fe67c1ac7f1f3b121edec5b7fcdd093185f19b4bd3f50620f9a2f"
 
 [[files]]
-file = "mods/createsongsandspeakers-forge-mc1.20.1-0.7 - Fork of 3.22.0-rc1.jar"
-hash = "e560a8617aa00399e33bf54674609e6d20eaa12be58d89689effe80a3c3703db"
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1a0099366159fe4c62c19e82b512375eaa528574cf1a7d60fc7b2c96e8a83a51"
 metafile = true
