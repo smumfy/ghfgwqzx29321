@@ -1,0 +1,13 @@
+name = "Pizza Dumpster"
+author = "smumfy"
+version = "3.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "64c6d1d9c3c7cde881e533977ee7c7ccbd2b22ee5990a356f3270caf34d589b4"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
