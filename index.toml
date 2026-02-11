@@ -5,10 +5,6 @@ file = "README.md"
 hash = "3853bb9c8cfe9ff420260ca1ccd4fa4a4bc60056a97104d5258b500c784c2043"
 
 [[files]]
-file = "config/antique-atlas.toml"
-hash = "13805940c2795a921fc152b34196616288634a660fe4e92d08926b53a5bb2f04"
-
-[[files]]
 file = "log4j2.xml"
 hash = "16772f1959b9ef6a48181a4b2bc584fa514f6396452477cbac2c8d8d34f41cc3"
 
@@ -68,10 +64,6 @@ hash = "d34d79a9aeb69662d1782a083c2577538d3ce5599a233e273b6819833d2aace2"
 file = "mods/a-man-with-plushies.pw.toml"
 hash = "e698205da2db424086fe050940d544353bfb5aa8e6cafcebbdf9f313225a4f22"
 metafile = true
-
-[[files]]
-file = "mods/aa4-atlas-1.1.2+1.20.jar"
-hash = "b1ad37a2814ed85b7b360f69a67249189ce192ac7189520506242150257eb67c"
 
 [[files]]
 file = "mods/aaa-particles.pw.toml"
@@ -139,13 +131,13 @@ hash = "a966c425617e0583ccadc2fe7f521a53833c93f4aacd9c89c24ad7cc76eca97a"
 metafile = true
 
 [[files]]
+file = "mods/annoytower-1.1.3.jar"
+hash = "de1dd05f206cf9cbbadfceed90bd472a31f037a44ed53ed6a7dadad1a463ffd6"
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "892330f5c44888f1fbdd552b728acf89af7bc32a8cbb9ff5cd17c4a453508fc4"
 metafile = true
-
-[[files]]
-file = "mods/antique-atlas-3.1.2+1.20.jar"
-hash = "8add9c788588f82a4c036b0a91f5c400f039e7d5a7d3ec3e0b585158aadc2624"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -486,9 +478,8 @@ hash = "1f684f0f4b1c0e527f1f0e1dff969e2abb3b0320b088693cdf4000f7851f8fdd"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "e9cfb7374590ca30ace54658e4196c6b2f3883b89fdaa4c2cfb124da37021a55"
-metafile = true
+file = "mods/continuity-3.0.0+1.20.1.jar"
+hash = "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3"
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -1354,8 +1345,8 @@ hash = "0e3ba214541f37a2a7b79cc2e3d89783b7aa2ebd704c9a38e58a0b606cb71141"
 metafile = true
 
 [[files]]
-file = "mods/mcqoy-0.4.1+forge-1.20.jar"
-hash = "76e8e318bce124c704ab43b207c6a7d484e966103d88143de96205da2aa115f9"
+file = "mods/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
+hash = "c952bf7b9eec89071d05da79f73459565847c65187b2f342fa0933c46605bfea"
 
 [[files]]
 file = "mods/medieval-buildings-end-edition.pw.toml"
@@ -1376,6 +1367,10 @@ metafile = true
 file = "mods/memory-settings.pw.toml"
 hash = "c0e6a14f6320209bd493d8591589be7db82c32d054fcc114d7b0081956ad27c1"
 metafile = true
+
+[[files]]
+file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
+hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
 
 [[files]]
 file = "mods/mini-boss-boss-bars.pw.toml"
@@ -1649,11 +1644,6 @@ file = "mods/radiantgear-forge-2.2.0+1.20.1.jar"
 hash = "2a6c7e0825c69bd38dc1bb1ce8a8d6b097cac835e16e46afaa0f207fb819bb96"
 
 [[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
-metafile = true
-
-[[files]]
 file = "mods/raised.pw.toml"
 hash = "cd539f25e7fcb8ef0246e621613d25d7b753a21d2e02482eb3803f35be2facfc"
 metafile = true
@@ -1907,10 +1897,6 @@ metafile = true
 file = "mods/supplementaries.pw.toml"
 hash = "80cc9e9ba6f53fa0a165c8ceb24d295eac471ecbb64f2b7711f1751264d96c1f"
 metafile = true
-
-[[files]]
-file = "mods/surveyor-1.2.1+1.20.jar"
-hash = "f5d50ec033e0bc1c37b1bbf2e21a6ed23ccd278064bc1c1b0b7b9a875bd5c9a7"
 
 [[files]]
 file = "mods/swampier-swamps.pw.toml"
