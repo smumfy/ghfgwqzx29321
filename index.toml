@@ -1142,6 +1142,10 @@ hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-1.20.1-5.10.3-forge.jar"
+hash = "8b2679b7b4881e0aa430fd24345ea446de919faf8a45bd2a71d37c7e8ff6ae1e"
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "7142644b6ee70047ec0eec880a44050cf4fd7e42c94f93dbe85ea7630f2d4500"
 metafile = true
@@ -1643,6 +1647,10 @@ hash = "2a6c7e0825c69bd38dc1bb1ce8a8d6b097cac835e16e46afaa0f207fb819bb96"
 file = "mods/raised.pw.toml"
 hash = "cd539f25e7fcb8ef0246e621613d25d7b753a21d2e02482eb3803f35be2facfc"
 metafile = true
+
+[[files]]
+file = "mods/ranged_weapon_api-1.1.4+1.20.1.jar"
+hash = "7f54de417aae331bf39f2847d3029d0976b90b50f217f9b4cc856433d34aee6f"
 
 [[files]]
 file = "mods/raven-brews-core.pw.toml"
