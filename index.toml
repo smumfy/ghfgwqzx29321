@@ -71,6 +71,10 @@ hash = "ee0b992bbbcded3a2195bbd1a867db66e67f775bb4df48a658662bd2cea43a6b"
 metafile = true
 
 [[files]]
+file = "mods/abnormals_delight-1.20.1-5.0.1.jar"
+hash = "e839316b3919b32a9915d4c4b8ed6df96052550f7f5f19165310777200252a13"
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "1e37b70e5697c834a09fbfb4ed66774884292708de5012015f1330cb6a9180e9"
 metafile = true
