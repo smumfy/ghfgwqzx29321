@@ -1,0 +1,14 @@
+#Feature Toggles
+[features]
+	#Whether workstation blocks (crafting table, stonecutter, anvil, etc.) can be used on trains.
+	#When enabled, players can open workstation GUIs by interacting with these blocks on moving contraptions.
+	contraptionWorkstations = true
+	#
+	#Whether players can sleep in beds placed on trains.
+	#When enabled, players can use beds on moving contraptions to sleep and set their respawn point.
+	contraptionBedSleeping = true
+	#
+	#Enable solid collision for Create train tracks.
+	#When enabled, tracks have full collision shapes so players don't fall through.
+	#Applies to both straight tracks and curved (bezier) track segments.
+	solidTrackCollision = true
