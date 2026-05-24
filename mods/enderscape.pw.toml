@@ -1,13 +1,13 @@
 name = "Enderscape"
-filename = "enderscape-neoforge-1.0.9+mc1.21.1.jar"
+filename = "enderscape-fabric-2.1.0+mc1.21.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5d45e8282989817ee04682620c9351c76dc62308"
+hash = "bb3cf0f3e6c4dfb521bc8e801a276371c4c87b61"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6875961
+file-id = 7470598
 project-id = 536638

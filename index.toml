@@ -2497,11 +2497,6 @@ file = "log4j2.xml"
 hash = "16772f1959b9ef6a48181a4b2bc584fa514f6396452477cbac2c8d8d34f41cc3"
 
 [[files]]
-file = "mods/.index/enderscape.pw.toml"
-hash = "627ace0b196fac3fc7526195691c7dffa55892cc6be7fb346eaae5016ad29db5"
-metafile = true
-
-[[files]]
 file = "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar"
 hash = "379893246c33aaa6dd8e4a8711e349cd6835e08c2bd5b8bd7b7e81be9822aacb"
 
@@ -3011,7 +3006,7 @@ hash = "fe6c04dcfdbb8815058ebf1102d64cb4c86060a0a1b7350121e4a976d4a92248"
 
 [[files]]
 file = "mods/enderscape.pw.toml"
-hash = "dd1d97bf0dbd163301b1c6677f36777c8684c58434b91b375ee0ef9fa7cc044a"
+hash = "c8c02152e27889776ebfe527b9885c5bc5c50d693f3a5e0c5f31c8efd17d63e2"
 metafile = true
 
 [[files]]
