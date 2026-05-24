@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".nojekyll"
-hash = "9cabbd74f30c4959cdcc1182474cb4ec79d783e9622998633067a93339518d35"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "README.md"
@@ -3635,23 +3635,32 @@ file = "options.txt"
 hash = "ebea312730975439553305b1752e61a07619361a983750ff4e7c01a495065d49"
 
 [[files]]
+file = "resourcepacks/CreateSophBackpacks.zip"
+hash = "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d"
+
+[[files]]
 file = "resourcepacks/Gentler Weather Sounds 2.1.0.zip"
 hash = "b497206d300484552b24da8bc5a36123425227876c9c83193831b28f4af0948f"
 
 [[files]]
-file = "resourcepacks/create-old-copper-stuffs.pw.toml"
-hash = "c3ef2998f1d295a737d181bf761bafa6b57a13c058562490cf17470127b13ebd"
-metafile = true
+file = "resourcepacks/Old Copper Stuffs v1.8 For 1.21.1.zip"
+hash = "7a8da7152a85f57e1b8233fc8c7ef47457cdb0ebe761f544b4cd78811a3f7ee5"
 
 [[files]]
-file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "edd5b72494b5a77c55d1c215f6e35823cad374ed282f6324ce601bd93d865b72"
-metafile = true
+file = "resourcepacks/Simple Grass Flowers v1.9.5.zip"
+hash = "04795353ba8faa1d5f74c103b81d9311fb2133554674bb8b76deeab5f0663e0e"
 
 [[files]]
-file = "resourcepacks/slim-fire.pw.toml"
-hash = "1fcc7872bfe925386b397c749cc990a7e458556eb829c92602315e581672d5b2"
-metafile = true
+file = "resourcepacks/Visual Titles 1.3.zip"
+hash = "7a08d58bc4c31767d08c98f0b824433eaa4b842b1dd8695e9e2b1d7ee856598b"
+
+[[files]]
+file = "resourcepacks/torch up yo butt.zip"
+hash = "c5333ebdf85b1630738ef5903c8230b17a002de8c3ee922f1eaef292ada88a4e"
+
+[[files]]
+file = "resourcepacks/§lColourful Containers§8.zip"
+hash = "8d0e921a3fc7dd28ad0e0f11a94cfd549b66fda0fa37bac23103841bc0655380"
 
 [[files]]
 file = "shaderpacks/BSL_v10.1.1.zip"
