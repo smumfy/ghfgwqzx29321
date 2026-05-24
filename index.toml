@@ -61,12 +61,24 @@ file = "config/biomeswevegone/world_generation.json5"
 hash = "3d4f0456821e19017cbc51fab8018e061f4f0ce299a60fe59f7fc22acf0d6fd5"
 
 [[files]]
+file = "config/boss_checklist/boss_checklist-client.json"
+hash = "a4a92def8e5a0f4f674569285c45993288633d9b878d0979b0afe84536fedd3f"
+
+[[files]]
+file = "config/boss_checklist/boss_checklist-server.json"
+hash = "436e4e233be306a58f29d49e4f6cfb168719123a6f1f5f3e149c537d57802eec"
+
+[[files]]
 file = "config/create-server.toml"
 hash = "b2204df82cc728e49eefc75f3622d109149855163505dceabe20b06c1a919891"
 
 [[files]]
 file = "config/effectual.json"
 hash = "cfd1323ae1f015d548c952ffe38ddcc07cd9ec93b46a112ea827ad11c786b087"
+
+[[files]]
+file = "config/enderscape.json5"
+hash = "ca0521eff909c2af2e0f03572baa3f0f2b831b2dca469725ee23186f176f96cd"
 
 [[files]]
 file = "config/irons_rpg_tweaks-server.toml"
@@ -166,7 +178,7 @@ hash = "758a210ebdb0120c86e4cb3ff570f02685606164a8378afa1bd827ba27c73dd9"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "286ed06a892bc33cbf27936171da8d87a7bdbf604c749732dff8dd0a86cf049b"
+hash = "3e74d996dbcc9ed0312af39c5e4d6bebfd4ac723d6f41ac9511708acace11770"
 
 [[files]]
 file = "config/structureessentials.json"
